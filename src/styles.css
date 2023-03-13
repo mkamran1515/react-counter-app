@@ -1,0 +1,27 @@
+.counter-section {
+    min-height: 500px;
+    width: 400px;
+    background-color: #fff;
+    border-radius: 5px;
+    display: block;
+    margin:10px auto;
+    box-shadow: 0px 4px 8px 0px rgb(0 0 0 / 30%);
+}
+
+.inner-counter {
+    display: block;
+    margin:0 auto;
+    padding: 20px;
+    margin-top:10px;
+}
+
+.inner-counter h2 {
+    text-align: center;
+    font-size: 6rem;
+}
+
+.inner-counter button {
+    display: block;
+    margin:0 auto;
+    margin-top:10px;
+}
